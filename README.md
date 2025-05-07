@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![OSSRank](https://ossrank.com/widget/369117)](https://ossrank.com/c/369117-adrian-murage)
-
 <!--
 **adrianmurage/adrianmurage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
